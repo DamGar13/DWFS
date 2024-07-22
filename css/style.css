@@ -40,7 +40,6 @@ h2{
 	/*color: #000075;*/
 	color: var(--oscuro);
 	text-align: center;
-	background-color: var(--primario);
 }
 
 .subtitulo{
